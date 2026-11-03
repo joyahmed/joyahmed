@@ -29,7 +29,7 @@ I build systems - web, mobile, desktop and backend - from Bangladesh.
 Every project on your machine (Windows, WSL, macOS), your GitHub repos and your servers in one launcher. One key to open an editor, terminal or dev script.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/joyahmed/zetta-com"><img src="https://raw.githubusercontent.com/joyahmed/zetta-com/HEAD/docs/screenshots/home.png" alt="Zetta Com" height="240"></a>
+<a href="https://github.com/joyahmed/zetta-com"><img src="assets/zetta-com-trio.png" alt="Zetta Com" width="100%"></a>
 <br><b><a href="https://github.com/joyahmed/zetta-com">Zetta Com</a></b><br>
 A LAN intercom. Hold a key and the people you pick hear you. No internet, no accounts, no server, 2.5 MB.
 </td>
