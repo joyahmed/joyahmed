@@ -1,7 +1,7 @@
 ### Hi, I'm Joy 👋
 
 I build systems — web, mobile, desktop and backend — from Bangladesh.
-Next.js · React Native · NestJS · Prisma · Rust + Tauri · Swift · .NET
+Next.js · Svelte · React Native · NestJS · Prisma · Rust + Tauri · Swift · .NET
 
 #### Things I made that you can use
 
