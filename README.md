@@ -64,7 +64,9 @@ Memory for AI agents that forgets stale facts instead of piling them up.
 
 - [**Zetta HRM**](https://hrm.zettabyteincorp.com/auth/signin) - HR, attendance and payroll for Bangladesh and Canada. Open the demo, no account needed.
 - [**Zetta Commerce**](https://store.zettabyteincorp.com/) - online shops, each on its own domain. Next.js on an ASP.NET Core API.
-- [**Banani DOHS**](https://dohsbanani.org) - a community platform, with a React Native app on Google Play and the App Store.
+- [**Zetta Decorate**](https://decorate.zettabyteincorp.com/) - pick a room, a style and a size and get a picture of the decorated room in about ten seconds.
+- [**Zetta School**](https://school.zettabyteincorp.com/) - CELPIP practice with feedback, everyday English for life in Canada, and first letters in Bangla and Tamil for children.
+- **Banani DOHS** [Web](https://dohsbanani.org) | [iOS](https://apps.apple.com/app/id6815309798) | [Android](https://play.google.com/store/apps/details?id=com.joyahmed007.bananidohs) - the residents' association of a Dhaka housing area. Pay the service charge, report an issue to security, find a doctor. React Native app, same rules as the web.
 - [**Central Taxes Survey Zone**](https://taxsurvey.gov.bd) - the official site of a National Board of Revenue tax zone, Government of Bangladesh.
 
 🌐 [joy.zettabyteincorp.com](https://joy.zettabyteincorp.com/) · ▶️ [YouTube @joyahmedbuilds](https://www.youtube.com/@joyahmedbuilds)
