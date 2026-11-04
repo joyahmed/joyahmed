@@ -24,7 +24,7 @@ I build systems - web, mobile, desktop and backend - from Bangladesh.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/joyahmed/devgo"><img src="https://raw.githubusercontent.com/joyahmed/devgo/HEAD/docs/screenshots/mac/01-three-lanes.png" alt="DevGo" width="100%"></a>
+<a href="https://github.com/joyahmed/devgo"><img src="https://raw.githubusercontent.com/joyahmed/devgo/HEAD/docs/media/screens/launcher.png" alt="DevGo" width="100%"></a>
 <br><b><a href="https://github.com/joyahmed/devgo">DevGo</a></b><br>
 Every project on your machine (Windows, WSL, macOS), your GitHub repos and your servers in one launcher. One key to open an editor, terminal or dev script.
 </td>
