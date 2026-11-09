@@ -49,7 +49,7 @@ Tray app that keeps one keyboard and mouse working across Windows, Linux and mac
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/joyahmed/gridle"><img src="https://raw.githubusercontent.com/joyahmed/gridle/HEAD/media/banner.png" alt="Gridle" width="100%"></a>
-<br><b><a href="https://github.com/joyahmed/gridle">Gridle</a></b> (formerly Panes) · <a href="https://youtube.com/shorts/OALKeQV0GuY">▶ Short</a><br>
+<br><b><a href="https://github.com/joyahmed/gridle">Gridle</a></b> (formerly Panes) · <a href="https://youtube.com/shorts/_7JYDIkQlGg">▶ Short</a><br>
 Windows-style window snapping for macOS, a native Swift menu-bar app.
 </td>
 <td width="50%" valign="top">
