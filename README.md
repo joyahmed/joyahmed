@@ -69,4 +69,4 @@ Memory for AI agents that forgets stale facts instead of piling them up.
 - **Banani DOHS** [Web](https://dohsbanani.org) | [iOS](https://apps.apple.com/app/id6815309798) | [Android](https://play.google.com/store/apps/details?id=com.joyahmed007.bananidohs) - the residents' association of a Dhaka housing area. Pay the service charge, report an issue to security, find a doctor. React Native app, same rules as the web.
 - [**Central Taxes Survey Zone**](https://taxsurvey.gov.bd) - the official site of a National Board of Revenue tax zone, Government of Bangladesh.
 
-🌐 [joy.zettabyteincorp.com](https://joy.zettabyteincorp.com/) · ▶️ [YouTube @joyahmedbuilds](https://www.youtube.com/@joyahmedbuilds)
+🌐 [joy.zettabyteincorp.com](https://joy.zettabyteincorp.com/) · ▶️ [YouTube @joysbuilds](https://www.youtube.com/@joysbuilds)
